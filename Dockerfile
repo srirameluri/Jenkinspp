@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ["python", "Sriram.Eluri.py"]
+CMD ["python", "sriram.eluri.py"]
